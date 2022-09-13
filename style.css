@@ -1,1 +1,67 @@
- 
+ body {
+    background-image:url("bg.jpg");
+    background-position: center;
+    display: flex;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+ }
+
+ #title {
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    opacity: 80%;
+    cursor: pointer;
+ }
+
+ .subtitle {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 35px;
+    font-family: 'Segoe UI', sans-serif;
+ }
+
+ .italics {
+    font-style: italic;
+ }
+
+ #searchResults {
+    display: hidden;
+ }
+
+ .searchButtons {
+    margin-bottom: 5px;
+ }
+
+ #time {
+    display: hidden;
+ }
+
+ .searchBar{
+    width: 100wv;
+    padding: 10px 30px;
+ }
+
+ #query {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    background-color: rgb(255,255,255,0.85);
+    border: none;
+    border-radius: 10px;
+
+    font-size: large;
+    text-align: center;
+ }
+
+ .ui-button {
+    background-color: rgb(255,255,255,0.90);
+    border-radius: 5px;
+ }
