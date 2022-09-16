@@ -1,0 +1,43 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+  <!-- Title set -->
+  <title>Boogle</title>
+
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/smoothness/jquery-ui.css" integrity="sha384-s5lqL1NMu1TdDS/75EsR2IKqj5g2SbplE63nRqwT70/kcm2uFLqKGOCp1phJ2ENd" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+  <!-- Header with cool name -->
+  <h1 id="title">Boogle</h1>
+  <h3 class="subtitle">The Newest Cool Search Engine (that's definitely <span class="italics">not</span> just Bing)</h3>
+
+  <div class="searchBar">
+    <input id="query" class="ui-text-input" type="text" placeholder="Enter your search query here"/>
+    <div class="searchButtons">
+      <!-- Search button -->
+      <button id="searchButton" class="ui-button" value="search" >Search</button>
+      <button id="luckyButton" class="ui-button">I'm Feeling Lucky</button>
+    </div>
+    <!-- Time button -->
+    <button id="timeButton" class="ui-button">Current Time</button>
+  </div>
+
+  
+<!-- Search and time results divs -->
+  <div id="searchResults"></div>
+  <div id="time"></div>
+  
+  <!-- Note all libraries have SRI hashes -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha384-i61gTtaoovXtAbKjo903+O55Jkn2+RtzHtvNez+yI49HAASvznhe9sZyjaSHTau9" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="./script.js"></script>
+</body>
+ 
+</html>

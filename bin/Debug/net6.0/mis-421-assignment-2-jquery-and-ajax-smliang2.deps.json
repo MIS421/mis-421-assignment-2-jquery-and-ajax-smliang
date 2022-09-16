@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mis-421-assignment-2-jquery-and-ajax-smliang2/1.0.0": {
+        "runtime": {
+          "mis-421-assignment-2-jquery-and-ajax-smliang2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis-421-assignment-2-jquery-and-ajax-smliang2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

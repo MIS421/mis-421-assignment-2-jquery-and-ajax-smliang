@@ -1,0 +1,8 @@
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-smliang2.exe
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\Web.config
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-smliang2.dll
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-smliang2.deps.json
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-smliang2.runtimeconfig.json
+C:\Users\smliang\Documents\GitHub\mis-421-assignment-2-jquery-and-ajax-smliang\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-smliang2.pdb
